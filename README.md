@@ -81,7 +81,7 @@ I'm open to collabs that actually push skills forward — not busywork.
 
 ## Connect With Me
 
-[![Discord](https://img.shields.io/badge/Discord-__.sentinel._-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-sentin5l-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 Feel free to DM if you’ve got a serious project, or just want to talk dev stuff.
 

@@ -46,7 +46,7 @@ class Developer:
 
 * Python performance tracker (PyTrack)
 
-* Roblox animation + combat systems (Anima, PunchModule)
+* Roblox animation + combat systems (Anima)
 
 * Smart automation scripts for local use
 

@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=lucas&color=blueviolet&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/lucas?style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=sentinel69402&color=blueviolet&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/sentinel69402?style=flat-square&color=blue)
 
 **C/C++ | Rust | Luau | GPU & Systems Geek**
 
@@ -42,9 +42,9 @@ Mostly messing with **C, C++, Rust**, and **LuaU** for Roblox.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sentinel69402&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sentinel69402&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
